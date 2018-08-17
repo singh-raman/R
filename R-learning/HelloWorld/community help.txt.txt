@@ -1,0 +1,31 @@
+Mailing List - http://bit.ly/mailingR
+
+R-help
+R-devel - code development
+
+Forums - 
+Stack Overflow
+http:/bit.ly/stackoverflowR
+
+Cross Validated
+http://bit.ly/crossvalidated/R
+
+Nabble
+http://bit.ly/nabbleR
+
+Blogs - 
+R-Bloggers
+http://bit.ly/Rbloggers
+
+Revolution Analytics blog
+http://bit.ly/revolutionanalyticsR
+
+R-Statistics blog
+http://bit.ly/rstatistics
+
+R-Data mining blog
+http://bit.ly/rdatamining
+
+
+
+
