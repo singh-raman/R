@@ -26,6 +26,8 @@ http://bit.ly/rstatistics
 R-Data mining blog
 http://bit.ly/rdatamining
 
+Google R style guide
+http://bit.ly/googleRguide
 
 
 
