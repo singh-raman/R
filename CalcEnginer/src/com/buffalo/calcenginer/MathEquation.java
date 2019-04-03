@@ -27,6 +27,31 @@ public class MathEquation {
     public double getResult(){
         return result;
     }
+
+    public MathEquation(){
+
+    }
+    public MathEquation(char opCode){
+        this.opCode=opCode;
+    }
+
+    public MathEquation(char opCode,double leftVals,double rightVals){
+        this(opCode);
+        this.leftVals=leftVals;
+        this.rightVals=rightVals;
+    }
+
+    public void execute(double leftVals,double rightVals){
+       this.leftVals=leftVals;
+       this.rightVals=rightVals;
+       execute();
+    }
+    public void execute(int leftVals,int rightVals){
+        this.leftVals=leftVals;
+        this.rightVals=rightVals;
+        execute();
+        result =(int) result;
+    }
     public void execute(){
         switch (opCode) {
             case 'a':
